@@ -3,3 +3,6 @@ data/*
 .ipynb_checkpoints/*
 2-matching.ipynb
 test1.ipynb
+catboost_info/*
+idx_df.csv
+train_base_df.csv
